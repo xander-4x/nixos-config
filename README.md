@@ -632,4 +632,4 @@ systemctl --user enable --now podman.socket
 
 ## License
 
-MIT
+[MIT](LICENSE)
